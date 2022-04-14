@@ -99,6 +99,7 @@ void dstaSort(comp* top)
 	} while (top->next != t);
 }
 
+
 //Добавление элемента в стек..
 comp* push(comp* p, int value)
 {
